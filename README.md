@@ -8,8 +8,8 @@ Neste projeto iremos analisar e construir um mecanismo de recomendação de film
 
 Para realizar as analises foram utilizados os arquivos: 
 ``` r
-df_titles <- movie_titles.csv ("../movie_titles.csv")
-df <- combined_data_1.txt("../combined_data_1.txt")
+movie_titles.csv ("../movie_titles.csv")
+combined_data_1.txt("../combined_data_1.txt")
 ```
 ### Motivação:
 O uso de sistemas e redes sociais para buscar entretenimento e comodidade se tornou cada vez mais comum nos últimos anos. Com a evolução da tecnologia e o aumento da conectividade, os usuários têm acesso a uma ampla variedade de plataformas, como serviços de streaming de vídeo, compras online, aplicativos de entrega de comida e muito mais.
@@ -24,4 +24,4 @@ O intuito deste trabalho é analisar uma estratégia de recomendação de filmes
 1. Execução do modelo de filtragem colaborativa.
 
 ### Visualização do arquivo:
-Para visualizar o arquivo do Google Colab que contém os dados de execução em detalhes, basta acessar o arquivo Analise_Recomendacao_Filmes_Filtragem_Colaborativa.ipynb
+Para visualizar o arquivo do Google Colab que contém os dados de execução em detalhes, basta acessar o arquivo [Analise_Recomendacao_Filmes_Filtragem_Colaborativa.ipynb](https://github.com/gomesevelyn/netflix_data_analysis/blob/main/Analise_Recomendacao_Filmes_Filtragem_Colaborativa.ipynb)
